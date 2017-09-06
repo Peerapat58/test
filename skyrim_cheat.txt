@@ -1,0 +1,57 @@
+สูตรเพิ่มค่าต่างๆครับ
+
+วิธีใช้
+
+เริ่มเกมส์แล้วกด (~) เพื่อเปิด แทบ console ขึ้นมา แล้วพิมพ์สูตรตามด้านล่างนี้ครับ
+
+player.additem xxxxxxxx x
+
+ยกตัวอย่างเช่น อยากเพิ่มเลเวลสกิล ซึ่งมีโค้ดว่า player.incpcs จำนวน 5
+ก็พิมพ์สูตรว่า player.incpcs 5
+
+*ต้องเว้นวรรคให้ถูกและระบุจำนวนด้วยนะครับ
+
+เพิ่มเลเวลสกิล
+player.incpcs [skill name]
+
+เพิ่ม HP
+player.setav health [number]
+
+เพิ่ม Stamina
+player.setav stamina [number]
+
+เพิ่ม Magicga
+player.setav magicka [number] 
+
+เพิ่ม Speed
+player.setav speedmult [number]
+
+เพิ่ม Smithing
+player.setav smithing [number]
+
+เพิ่มน้ำหนักบรรทุกของ
+player.modav carryweight [number]
+
+เพิ่มเงิน
+player.additem f [number]
+
+เพิ่มกุญแจผี
+player.additem a [number]
+
+เพิ่ม ดราก้อน โซล
+player.modav dragonsouls [number]
+
+ดูสูตรทั้งหมดได้ที่นี่ครับ
+
+http://www.cheatcc.com/pc/elderscrol...l#.TxNTavmJt2C
+
+item Code (เพิ่มของ)
+
+วิธีใช้ item Code
+
+เริ่มเกมส์แล้วกด (~) เพื่อเปิด แทบ console ขึ้นมา แล้วพิมพ์สูตรตามด้านล่างนี้ครับ
+
+player.additem xxxxxxxx x
+
+ยกตัวอย่างเช่น อยากได้ Ebony Armor ซึ่งมีโค้ดว่า 00013961 จำนวน 2 ตัว (มาเฉพาะเสื้อนะครับ)
+ก็พิมพ์สูตรว่า player.additem 00013961 2
