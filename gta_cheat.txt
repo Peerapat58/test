@@ -1,0 +1,99 @@
+LXGIWYL	อาวุธ Set 1, Thug’s Tools
+KJKSZPJ	อาวุธ Set 2, Professional Tools
+UZUMYMW	อาวุธ Set 3, Nutter Tools
+WANRLTW	กระสุนอมตะ, ไม่ต้องเปลี่ยนกระสุน
+SJMAHPE	รับคนใหม่ทุกๆ หนึ่งคน ได้ (9mm)			
+CQZIJMB	Spawn Blooding Banger
+JQNTDMH	Spawn Rancher
+PDNEJOH	Spawn Racecar
+VPJTQWV	Spawn Racecar
+AQTBCODX	Spawn Romero
+UBHYZHQ	Spawn Trash master
+RZHSUEW	Spawn Caddy
+AKJJYGLC	Spawn Quad
+AMOMHRER	Spawn Tanker Truck
+EEGCYXT	Spawn Dozer
+URKQSRK	Spawn Stunt Plane
+AGBDLCID	Spawn Monster
+KRIJEBR	Spawn Stretch
+สูตรสำหรับการเสกเครื่องบิน
+
+OHDUDE	Spawn Hunter
+JUMPJET	Spawn Hydra
+สูตรสำหรับการเสกเรือ
+
+KGGGDKP	Spawn Vortex Hovercraft
+เสกสิ่งของอื่นๆ
+
+AIYPWZQP	Have Parachute
+YECGAA	Have Jetpack
+สูตร GTA San Andreas เกี่ยวกับการจราจร
+
+ZEIIVG	ไฟเขียวตลอด
+LLQPFBN	ไฟสีชมพู
+IOWDLAC	ไฟสีดำ
+BGKGTJH	การจราจรรถถูก
+GUSNHDE	การจราจรรถเร็ว
+THGLOJ	การจราจรลด
+สูตร GTA San เกี่ยวกับสถานะทางเมือง
+
+BAGOWPG	โดนทุกคนหมายหัว
+FOOOXFT	ทุกคนมีอาวุธ
+IOJUFZN	โหมดก่อจลาจล
+PRIEBJ	ตัวละครตลก
+ASBHGRB	มีเอลวิสทุกที่
+AFPHULTL	นินจาทั้งเมือง (มาเฟีย)
+BEKKNQV	กะหรี่เยอะ
+CIKGCGX	แต่งชุดชายหาด
+MROEMZH	มีแก๊งในสังกัดทุกที่
+BIFBUZZ	มีทุกแก๊งคุมถนน
+สูตร GTA San เสริมฟังชั่นให้กับรถ
+
+VKYPQCF	รถแท๊กซี่มีไนตรัส, stamina เต็ม
+BMTPWHR	รถแบบคันทรี่และ Pads, Get Born 2 Truck Outfit
+AJLOJYQY	Pads Attack Each Other, ได้ Golf Club
+RIPAZHA	รถบินได้
+JHJOECW	กระต่ายกระโดด
+JCNRUAD	รถที่ถูกชนจะระเบิด (ไม่เสียหาย)
+COXEFGU	รถทุกคันมีไนโตร
+BSXSGGC	รถที่ถูกชนจะลอย
+CPKTNWT	ระเบิดรถทุกคัน
+XICWMD	รถล่องหน
+PGGOMOY	บังคับรถได้ดี
+OUIQDMW	โผล่ออกมายิงปืนนอกรถได้
+FVTMNBZ	มียานพาหนะแบบคันทรี่
+ZSOXFSQ	รับคนใหม่ทุกๆ หนึ่งคน ได้ (Rockets)
+สูตร GTA San Andreas เกี่ยวกับสภาพอากาศ
+
+AFZLLQLL	ฟ้าแจ่มใส
+ICIKPYH	ฟ้าแจ่มใส
+ALNSFMZO	เมฆมาก
+AUIFRVQS	ฝน
+CFVFGMJ	หมอก
+XJVSNAJ	เป็นตอนกลางคืนตลอด
+OFVIAC	ฟ้าสีส้ม 21:00
+MGHXYRM	พายุฝน
+CWJXUOC	พายุทราย
+สูตร GTA San เกี่ยวกับเวลา
+
+YSOHNUL	นาฬิกาเร็ว
+PPGWJHT	เล่นเกมแบบเร็ว
+LIYOAAY	เล่นเกมแบบช้า
+สูตร GTA San Andreas เกี่ยวกับค่า Status ต่างๆ
+
+BAGUVIX	อมตะ จากโดนปืนยิง(เท่านั้น)
+CVWKXAM	ออกซิเจนอมตะ
+HESOYAM	เพิ่มเลือด, เกราะ, ตัง$250k
+OSRBLHH	เพิ่ม Wanted Level ดาว 2 ดวง
+ASNAEB	ลบดาว Wanted Level
+LFGMHAL	กระโดดสูง
+AEZAKMI	ไม่มีวันติดดาว Wanted
+LJSPQK	6 ดาว Wanted Level
+IAVENJQ	ต่อยหนัก
+AEDUWNV	ไม่มีวันหิว
+MUNASEF	โหมดอะดรินาลีน
+OGXSDAG	Respect เต็ม
+EHIBXQS	Sex Appeal เต็ม
+NCSGDAG	มีสเตตัสการใช้อาวุธเต็ม
+VQIMAHA	มีสเตตัสการขับขี่เต็ม
+BUFFMEUP	เพิ่มค่า MUSCLE
