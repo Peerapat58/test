@@ -41,9 +41,7 @@ player.additem a [number]
 เพิ่ม ดราก้อน โซล
 player.modav dragonsouls [number]
 
-ดูสูตรทั้งหมดได้ที่นี่ครับ
 
-http://www.cheatcc.com/pc/elderscrol...l#.TxNTavmJt2C
 
 item Code (เพิ่มของ)
 
